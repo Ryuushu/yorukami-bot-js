@@ -5,10 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "node .": "node run index.js",
-    "lint": "eslint ./",
-    "lint:fix": "eslint --fix ./",
-    "p": "prettier . --write"
+    "node .": "node run index.js"
   },
   "repository": {
     "type": "git",
