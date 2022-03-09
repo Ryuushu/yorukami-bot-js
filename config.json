@@ -1,0 +1,12 @@
+{
+  "prefix": "!",
+  "token": "ODg3MzQ2ODYyOTIxNzQ0NDI2.YUC0Kg.1dXfU5O-oIfSWDW-2C_Se0OF1Nw",
+  "emoji": {
+    "play": "▶️",
+    "stop": "⏹️",
+    "queue": "📄",
+    "success": "☑️",
+    "repeat": "🔁",
+    "error": "❌"
+  }
+}
