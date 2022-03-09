@@ -45,6 +45,9 @@ fs.readdir('./commands/', (err, files) => {
 })
 
 client.on('ready', () => {
+  client.user.setStatus('test');
+
+  console.log('bot status', client.user.presence.status);
   console.log(`${client.user.tag} is ready to play music.`)
 })
 
