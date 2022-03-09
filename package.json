@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/distubejs/example.git"
+    "url": "git+https://github.com/chuzXII/yorukami-bot-js"
   },
   "author": "chuzxii",
   "license": "MIT",
