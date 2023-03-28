@@ -14,11 +14,12 @@
   "author": "chuzxii",
   "license": "MIT",
   "dependencies": {
-    "@discordjs/opus": "^0.7.0",
+    "@discordjs/opus": "^0.9.0",
     "@discordjs/voice": "^0.8.0",
     "@distube/soundcloud": "^1.1.0",
     "@distube/spotify": "^1.2.1",
     "@distube/yt-dlp": "^0.0.2",
+    "@distube/ytdl-core": "^4.11.7",
     "discord.js": "^13.6.0",
     "distube": "^3.3.1",
     "eslint-config-prettier": "^8.3.0",
